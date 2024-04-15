@@ -1,0 +1,22 @@
+Navigation
+products -> co working , enterprise , hot seats
+
+
+| FEATURED
+
+Total Seaters
+Co Working Clients 
+Enterprise Clients 
+Hot seats
+Locations
+
+
+| BEST DEAL
+
+
+image needs to be changed to carousal
+
+Total seaters 
+Key aminities
+location
+price
