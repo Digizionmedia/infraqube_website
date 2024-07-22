@@ -811,20 +811,14 @@ Banner Style
 
 .main-banner .item-1 {
   background-image: url(https://res.cloudinary.com/dqcukddwu/image/upload/v1715246225/banner_two_nnsyb8.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .main-banner .item-2 {
   background-image: url(https://res.cloudinary.com/dqcukddwu/image/upload/v1715246225/banner_three_nhzc5r.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .main-banner .item-3 {
   background-image: url(https://res.cloudinary.com/dqcukddwu/image/upload/v1715246225/banner_one_l6ehty.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .main-banner .item span.category {
