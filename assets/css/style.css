@@ -205,7 +205,7 @@ body {
 }
 
 .section-heading h2 {
-  font-size: 40px;
+  font-size: 38px;
   font-weight: 700;
   text-transform: capitalize;
   margin-top: 20px;
@@ -810,15 +810,15 @@ Banner Style
 }
 
 .main-banner .item-1 {
-  background-image: url(https://res.cloudinary.com/dqcukddwu/image/upload/v1715246225/banner_two_nnsyb8.jpg);
+  background-image: url(https://res.cloudinary.com/dqcukddwu/image/upload/v1736418512/banner_01.jpg);
 }
 
 .main-banner .item-2 {
-  background-image: url(https://res.cloudinary.com/dqcukddwu/image/upload/v1715246225/banner_three_nhzc5r.jpg);
+  background-image: url(https://res.cloudinary.com/dqcukddwu/image/upload/v1736418511/Banner_02.jpg);
 }
 
 .main-banner .item-3 {
-  background-image: url(https://res.cloudinary.com/dqcukddwu/image/upload/v1715246225/banner_one_l6ehty.jpg);
+  background-image: url(https://res.cloudinary.com/dqcukddwu/image/upload/v1736418510/Banner_03.jpg);
 }
 
 .main-banner .item span.category {
@@ -1185,7 +1185,7 @@ Best Deal Style
 }
 
 .best-deal .info-table ul li span {
-  font-size: 20px;
+  font-size: 15px;
   color: #1e1e1e;
   font-weight: 700;
   float: right;
